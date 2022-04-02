@@ -4,7 +4,7 @@ from aiogram.utils import executor
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from random import randint
-bot = Bot(token='5131028968:AAEgHTKqqZy8ioBwRS1EHueY5Ej7l24x2SY')
+bot = Bot(token='')
 dp = Dispatcher(bot)
 
 """Кнопки"""
